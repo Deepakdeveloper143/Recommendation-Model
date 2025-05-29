@@ -65,5 +65,17 @@ ROC-AUC Curve (if binary classification is used)
 Use Case Example:
 A user who prefers "Italian cuisine", "medium price", and has previously rated "family-friendly" restaurants highly will be recommended restaurants that match this profile and classified as "Highly Recommended".
 
+""deployment model""
+                  https://amazing-custard-036e8c.netlify.app
 
+
+""OUTPUT""
+
+
+
+
+
+
+
+                  
                 
