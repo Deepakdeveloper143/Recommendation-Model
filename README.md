@@ -70,7 +70,7 @@ A user who prefers "Italian cuisine", "medium price", and has previously rated "
 
 
 ""OUTPUT""
-
+                 <img width="967" alt="Image" src="https://github.com/user-attachments/assets/42d77792-b019-4958-8968-03dfe4a636ef" />
 
 
 
